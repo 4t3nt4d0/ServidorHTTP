@@ -1,4 +1,4 @@
-#Usar a porta 80
+# Usar a porta 80
 
 import SimpleHTTPServer
 import SocketServer
